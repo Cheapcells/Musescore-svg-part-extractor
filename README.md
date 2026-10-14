@@ -75,3 +75,5 @@ This project is useful when you already have a full-score SVG and want to extrac
 ## Contributing
 
 Bug reports, reproducible examples and contributions that improve instrument detection or compatibility with different MuseScore SVG exports are welcome.
+
+Other information: vibe coded with Haiku 5.5 effort xhigh/max
